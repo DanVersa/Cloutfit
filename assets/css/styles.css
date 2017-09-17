@@ -172,7 +172,7 @@ header .navbar-default.scrolled ul.navbar-nav {
   content: "";
   position: relative;
   height: 4px;
-  width: 60px;
+  width: 360px;
   display: block;
   text-align: center;
   margin: 13px auto;
